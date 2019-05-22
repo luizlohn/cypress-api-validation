@@ -2,8 +2,6 @@ const fixturePeople = 'people_api.json'
 const fixturePlanets = 'planets_api.json'
 const userService = require('../support/services/requests.js');
 
-
-
 describe('To Assure that all services are running', () => {
 
     let peopleData
