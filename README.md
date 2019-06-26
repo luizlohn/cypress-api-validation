@@ -28,4 +28,4 @@ Now will run tests
 ### PlayList listened to do this project:
 [Deezer #HITOU](https://www.deezer.com/playlist/1592591647?utm_source=deezer&utm_content=playlist-1592591647&utm_term=1624798546_1543511458&utm_medium=web)
 
-Copyright Luiz Lohn
+Copyright Luiz Lohn :)
